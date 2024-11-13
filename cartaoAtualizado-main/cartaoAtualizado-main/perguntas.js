@@ -1,6 +1,0 @@
-//variaveis
-
-//funcões
-
-//chamada
-
